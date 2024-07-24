@@ -1,0 +1,4 @@
+metplotlib
+seaborn
+streamlit
+pandas
