@@ -31,7 +31,7 @@ st.markdown(css, unsafe_allow_html=True)
 
 st.write('Hello world!')
 ##heading 
-st.title('My :yellow[Tutorial]')
+st.title('Stream:red[Tutorial]')
 
 st.header(':blue[Introduction to Databases]')
 st.subheader("🐥💻 Web Applications")
